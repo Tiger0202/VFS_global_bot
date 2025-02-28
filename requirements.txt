@@ -1,0 +1,6 @@
+selenium
+pyautogui
+undetected_chromedriver
+imaplib
+email
+re
