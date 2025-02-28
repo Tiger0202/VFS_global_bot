@@ -14,10 +14,10 @@ RegisterURL = "https://visa.vfsglobal.com/ago/en/prt/register"
 LoginURL = "https://visa.vfsglobal.com/ago/en/prt/login"
 
 ### Register User
-email = "sozab83@gmail.com"
-password = "Soza83%#01"
-nation_number = "54"
-phone_suffix = "91177160003"
+email = "you@gmail.com"
+password = "your password"
+nation_number = "your nation number"
+phone_suffix = "your phone number"
 
 driver = uc.Chrome()
 
